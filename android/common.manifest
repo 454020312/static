@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2900666695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04c53f4e5324075f6d107b28d6a8e984
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+HashAppended: 0
+ClassTypes:
+- Class: 49
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/HuatuoBuildCache/AssetBundleSourceData/Android/mscorlib.dll.bytes
+- Assets/HuatuoBuildCache/AssetBundleSourceData/Android/HotFix.dll.bytes
+- Assets/HuatuoBuildCache/AssetBundleSourceData/Android/System.Core.dll.bytes
+- Assets/HuatuoBuildCache/AssetBundleSourceData/Android/System.dll.bytes
+Dependencies: []
